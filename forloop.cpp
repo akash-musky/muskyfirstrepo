@@ -52,12 +52,10 @@ ll fpow(ll b, ll exp, ll mod)// for fast exponentation
 int main()
 {  
    
-ll n;
-cin>>n;
-for(ll i=1;i<=n;i++)
-n+=i;
-cout<<n<<endl;
-   
+
+cout<<"for loop"<<endl;
+cout<<"first git"<<endl;
+cout<<"updated wowww!!!!!"<<endl;
    
  
 
